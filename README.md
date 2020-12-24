@@ -20,4 +20,4 @@ start coordinates (line two)
 goal coordinates (line three)
 the grid itself (one line per row). There will be a zero for no obstacle and one for an obstacle. (for gird please see grid.txt file)
 
-#Programmers: Laiba Sajjad & Shozab Nadeem
+#Credits: Shozab Nadeem
